@@ -7,7 +7,7 @@ import Filter from './components/Filter';
 function App() {
   return (
     <div className="App">
-      <DisplayName hello="world" />
+      <DisplayName title="developer" />
       <Filter />
     </div>
   );
